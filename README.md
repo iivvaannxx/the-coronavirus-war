@@ -107,7 +107,7 @@ There are some bugs I didn't have time to finish before the deadline of the proj
 
 ## 📜 License
 
-The Coronavirus War © 2022 by Ivan Porto Wigner is licensed under CC BY-NC-ND 4.0. To view the details of this license, visit [this link](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en).
+The Coronavirus War © 2020 by Ivan Porto Wigner is licensed under CC BY-NC-ND 4.0. To view the details of this license, visit [this link](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en).
 
 
 ## 📷 Screenshots
