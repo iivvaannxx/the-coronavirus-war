@@ -39,7 +39,9 @@ Are you ready to take on the challenge and save the world from these dangerous v
 
 ## 🛠️ How to Play
 
-The game is built for Windows and Linux (x86_64 architecture). Unfortunately, I don't own a Mac, so I can't provide a build for macOS 😢, if you want it I may be able to provide it to you, but because I can't test it, I can't guarantee it will work. You can download the game from the [releases page](https://github.com/iivvaannxx/the-coronavirus-war/releases/tag/1.0.0). Here's how to run them:
+The game is built for Windows and Linux (x86_64 architecture). Unfortunately, I don't own a Mac, so I can't provide a build for macOS 😢, if you want it I may be able to provide it to you, but because I can't test it, I can't guarantee it will work. 
+
+You can download the game from the [releases page](https://github.com/iivvaannxx/the-coronavirus-war/releases/tag/1.0.0). Here's how to run it:
 
 ### Windows
 
@@ -111,7 +113,11 @@ The Coronavirus War © 2022 by Ivan Porto Wigner is licensed under CC BY-NC-ND 4
 ## 📷 Screenshots
 
 ![Menu](./.github/assets/menu.png)
+
 ![Level 2](./.github/assets/level-2.png)
+
 ![Two Players](./.github/assets/two-players.png)
+
 ![Game Over](./.github/assets/game-over.png)
+
 ![Victory](./.github/assets/victory.png)
